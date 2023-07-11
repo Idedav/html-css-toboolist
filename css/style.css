@@ -26,3 +26,38 @@ body{
     display: inline-block;
     vertical-align: middle;
 }
+
+/* CONTAINERS */
+
+.container{
+    width: 1500px;
+    margin: 0px auto;
+    background-color: white;
+}
+
+.buttons{
+    margin: 100px auto 4px auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 30px 0px 20px 50px;
+}
+
+/* BUTTONS SECTION */
+
+button{
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.task{
+    background-color: #47ADF1;
+    border: none;
+    color: white;
+    margin-right: 5px;
+}
+
+.section{
+    background-color: white;
+    border: 1px solid #D2D7DB;
+    color: #D2D7DB;
+}
